@@ -49,7 +49,7 @@
         {
             "label": "Create new project",
             "type": "shell",
-            "windows": {"command": "Copy-Item -Path '${cwd}/docs/modelo' -Destination '${cwd}' -Recurse"},
+            "windows": {"command": "Copy-Item -Path '${cwd}/.docs/modelo' -Destination '${cwd}' -Recurse"},
             "osx": {"command": "source .venv/bin/activate; cd ${input:inputFolder}; xlwings vba import -f ${input:inputFile} -v"},
             "group": {
                 "kind": "build",
