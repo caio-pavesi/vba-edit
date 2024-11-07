@@ -52,4 +52,5 @@ The current project was created and tested on python 3.12 on a Windowns 11 machi
 
 ### 5 Troubleshooting
 * xlwings errors: Verify if macros are enabled, see [this link](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
+* this error `pywintypes.com_error: (-2147352567, 'Exceção.', (0, 'Microsoft Excel', 'O acesso de programação ao projeto do Visual Basic não é confiável\n', 'xlmain11.chm', 0, -2146827284), None)`, see [this link](https://support.microsoft.com/en-us/office/enable-or-disable-macros-in-microsoft-365-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
 * shell errors: Verify if python is installed, the `.venv` setted and [requirements](./requirements.txt) installed.
