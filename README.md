@@ -56,4 +56,6 @@ The current project was created and tested on python 3.12 on a Windowns 11 machi
 * shell errors: Verify if python is installed, the `.venv` setted and [requirements](./requirements.txt) installed.
 
 ### 6. Extra tips
-* Want to write better VBA code? Check on this [article](https://www.automateexcel.com/vba/best-practices/)
+* [VBA Best practices](https://www.automateexcel.com/vba/best-practices/)
+* [Maintanable VBA](https://masterofficevba.com/vba-coding-constructs/maintainable-excel-vba-code-best-practices/)
+* [VBA Best practices (Advanced)](https://masterofficevba.com/vba-coding-constructs/best-practices-for-excel-vba-code/)
